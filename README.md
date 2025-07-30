@@ -47,7 +47,12 @@
 ---
 Попробовал создать несколько багов
 Тасков и привязать к Epic
-В Scrum не сразу понял, что нужно задачу перевести в статус (дополнить скриншот)
+
+Создал спринт в Scrum и закрыл его
+
+[bug workflow](https://github.com/Werest/09-ci-01-intro/blob/ce68e2b3f252eb266e5bed3148a13afab2cc460d/Bug%20Workflow%20RU.xml)
+
+[default workflow](https://github.com/Werest/09-ci-01-intro/blob/ce68e2b3f252eb266e5bed3148a13afab2cc460d/Default%20Workflow%20RU.xml)
 
 
 ![Снимок экрана 2025-07-30 в 22.14.30.png](https://github.com/Werest/09-ci-01-intro/blob/097834f263a7d203236a84125c3599a53f5abf42/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-07-30%20%D0%B2%2022.14.30.png)
